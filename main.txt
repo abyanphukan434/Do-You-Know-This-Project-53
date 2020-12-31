@@ -1,0 +1,51 @@
+1. Which one of the following is an Imperative language?
+a. HTML
+b. CSS
+c. Javascript
+Answer: Javascript
+
+2. Which one of the following is an Declarative language?
+a. HTML
+b. CSS
+c. Javascript
+Answer: Javascript
+
+3. Name two uses of a div tag?
+Answer: a. The div tag creates a division or section in the HTML document in which we are working.
+b. We can also design a big box and include small boxes inside it using div tag.
+
+4. What is the difference between relative positioning and absolute positioning in HTML?
+Answer: Relative: The element is positioned relative to its normal position.
+Absolute: The element is positioned to its first positional parent.
+
+5. What is the use of opacity in CSS?
+Answer: Opacity in CSS can be used to set the transparency of an element. It ranges from 0 to 1.
+
+6. What is the programming language used in the React Native Framework?
+Answer: JSX language.
+
+7. Which online editor are we using for creating our apps in React Native Framework?
+Answer: Snack.
+
+8. Write the steps to test your first designed app in the online editor on a mobile.
+Answer: a. Selection of the device.
+b. Documentation testing
+c. Functional testing
+d. Usability testing
+e. UI (User Interface) testing
+f. Combability
+g. Configuration testing
+h. Performance testing
+i. Security testing
+
+9. What is the use of render function in React Native Framework?
+Answer: The render function takes a function that returns a React component.
+
+10. What is the use of return function in React Native Framework?
+Answer: Return function is rendered as a React element and react elements let us see what we write.
+
+11. What are the various components in the first app that I designed?
+Answer: Various components in my first app: 
+a. Button
+b. View
+c. Text
